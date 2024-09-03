@@ -1,7 +1,7 @@
 This diagram represents a typical architecture for deploying a highly available web application on AWS (Amazon Web Services). Let's break down the components and their roles:
 
 
-<img src="CloudArchitecture.jpg" width="100%" height="400px" align="center" />
+<img src="CloudArchitecture.jpg" width="100%" height="600px" align="center" />
 
 1. *Domain in Hostinger*: 
    - This represents a domain name registered with Hostinger (or any other domain registrar).
