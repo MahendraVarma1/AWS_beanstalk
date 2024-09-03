@@ -1,3 +1,7 @@
+### AWS BeanStalk Application Architecture
+
+---
+
 This diagram represents a typical architecture for deploying a highly available web application on AWS (Amazon Web Services). Let's break down the components and their roles:
 
 
