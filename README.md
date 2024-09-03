@@ -1,4 +1,4 @@
-### AWS BeanStalk Application Architecture
+### AWS BeanStalk Application Architecture 🧑
 
 ---
 
